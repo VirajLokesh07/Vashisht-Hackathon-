@@ -1,4 +1,4 @@
-# AI-Powered Trip Planner 🌍
+# GLOBE TRAIL 🌍
 
 An intelligent travel planning application that leverages AI to create personalized travel itineraries. The system combines multiple AI agents to provide comprehensive travel information, recommendations, and detailed itineraries based on user preferences.
 
